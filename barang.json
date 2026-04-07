@@ -1,0 +1,32 @@
+[
+    {
+        "id": "B001",
+        "nama": "Paracetamol 500mg",
+        "harga": 5000,
+        "stok": 40
+    },
+    {
+        "id": "B002",
+        "nama": "Amoxicillin",
+        "harga": 12000,
+        "stok": 29
+    },
+    {
+        "id": "B003",
+        "nama": "Vitamin C 1000mg",
+        "harga": 8000,
+        "stok": 100
+    },
+    {
+        "id": "B004",
+        "nama": "Mirasic",
+        "harga": 4000,
+        "stok": 100
+    },
+    {
+        "id": "B005",
+        "nama": "Yusimox",
+        "harga": 7000,
+        "stok": 99
+    }
+]

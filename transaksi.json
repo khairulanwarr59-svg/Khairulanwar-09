@@ -1,0 +1,29 @@
+[
+    {
+        "id_transaksi": "TRX-1775100963",
+        "tanggal": "2026-04-02",
+        "jam": "05:36:03",
+        "id_barang": "B002",
+        "nama_barang": "Amoxicillin",
+        "qty": "1",
+        "total_harga": 12000
+    },
+    {
+        "id_transaksi": "TRX-1775100963",
+        "tanggal": "2026-04-02",
+        "jam": "05:36:03",
+        "id_barang": "B001",
+        "nama_barang": "Paracetamol 500mg",
+        "qty": "10",
+        "total_harga": 50000
+    },
+    {
+        "id_transaksi": "TRX-1775100963",
+        "tanggal": "2026-04-02",
+        "jam": "05:36:03",
+        "id_barang": "B005",
+        "nama_barang": "Yusimox",
+        "qty": "1",
+        "total_harga": 7
+    }
+]
